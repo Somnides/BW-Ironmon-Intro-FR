@@ -16,7 +16,7 @@ This set of patches for Pokémon Black and White will speed up the intro up to t
 - The crowd talk after the Ghetsis cutscene is basically nonexistent.
 
 ## How to install
-1. Download the .zip under the latest release and extract it.
+1. Download the .zip from [here](https://github.com/Brian0255/Pokemon-Black-and-White-Intro-Speedup/releases/latest) and extract it.
 2. Depending on if you're playing Pokémon Black or Pokémon White, be ready with the correct patch.
 3. For patching the ROM, head to [this](https://www.marcrobledo.com/RomPatcher.js/) website.
 4. On that site, put in your original Black/White ROM and the patch you just downloaded depending on the game.
